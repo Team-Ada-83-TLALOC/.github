@@ -22,7 +22,7 @@ The choice of Ada 83 is deliberate. Rather than following the successive extensi
 |---|---|
 | [TLALOC compiler](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-compiler) | Ada 83 compiler, LLIR intermediate representation and code generation. |
 | [TAHX](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-TAHX) | Dedicated processor architecture and hardware implementation. |
-| [eXecutor](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-eXecutor) | Experimental execution architectures. |
+| [eXecutor](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-eXecutor) | Software interpreter and instrumentation for TLALOC LLIR code performance assessment. |
 | [Documentation base](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-docbase) | Historical and technical documentation on Ada 83, compilers and software engineering systems. |
 | [PLATFORMS](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-PLATFORMS) | Compiler distributions and supported platforms. |
 | [8-bit targets](https://github.com/Team-Ada-83-TLALOC/Ada-83-TLALOC-8bits-targets) | LLIR backends for 8-bit processors. |
